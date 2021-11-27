@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I currently know Node js
-- 🌱 I’m currently learning React js
+🔭 I currently know Node js
+🌱 I’m currently learning React js
 -->
