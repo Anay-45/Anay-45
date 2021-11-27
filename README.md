@@ -1,5 +1,5 @@
 
-🔭 I currently know Node js
+🔭 Currently know Node js
 
-🌱 I’m currently learning React js
+🌱 Learning React js
 
