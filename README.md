@@ -1,5 +1,5 @@
 
-🔭 Currently know Node js
+🔭 Currently know Node js,React js,PHP.
 
-🌱 Learning React js
+🌱 Learning Flutter
 
