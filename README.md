@@ -1,5 +1,6 @@
 
-🔭 Currently know Node js,React js,PHP.
+🔭 Currently know Node js,React js, powershell,bash and python.
 
-🌱 Learning Flutter
+Leverage the use of Powershell, Bash and python for server level automation.
+
 
